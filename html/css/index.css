@@ -57,7 +57,7 @@ body{
     
 }
 .nf-hero{
-    background-image: url(../assets/images/icons/heroCM.jpg);
+    background-image: url(../assets/images/heroGbl.jpg);
     background-size: cover;
     background-position: center;background-repeat: no-repeat;
     height: 100vh;
